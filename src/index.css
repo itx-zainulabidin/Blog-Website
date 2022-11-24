@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #333;
+    color: #ddd;
+    min-height: 100vh;
+    font-family: sans-serif;
+}
+
+.a {
+    padding: 10px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    background: #ddd;
+    border-radius: 2px;
+    border: 2px solid transparent;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.a:hover {
+    background: transparent;
+    color: #ddd;
+    border-color: #ddd;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #ddd;
+}

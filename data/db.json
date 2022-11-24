@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\n",
+      "author": "Zain",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat veniam earum nihil ratione autem itaque iusto dignissimos. Voluptate atque sapiente, neque, laborum enim delectus quas vel doloremque repellendus at excepturi?\n",
+      "author": "Bilal",
+      "id": 2
+    }
+  ]
+}

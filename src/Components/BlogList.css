@@ -1,0 +1,45 @@
+.blog-preview {
+    margin: 20px 0;
+    border-left: 4px solid pink;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-bottom: 4px solid transparent;
+    transition: box-shadow 0.5s;
+    border-radius: 5px 0 5px 0;
+}
+
+.blog-preview:hover {
+    border-bottom-color: pink;
+    box-shadow: 5px 5px 5px rgba(23, 23, 23, 0.689);
+
+}
+
+.blog-title {
+    width: max-content;
+    border-bottom: 4px solid pink;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+
+.blog-preview p{
+    margin-top: 10px;
+}
+.btn {
+    padding: 10px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    background: #ddd;
+    border-radius: 2px;
+    border: 2px solid transparent;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background: transparent;
+    color: #ddd;
+    border-color: #ddd;
+}

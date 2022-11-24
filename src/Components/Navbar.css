@@ -1,0 +1,20 @@
+.Navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0;
+    background: rgb(71, 71, 71);
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 8px 10px #000;
+    margin-bottom: 100px;
+}
+.logo{
+    width: 40%;
+}
+.links{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}

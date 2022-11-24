@@ -1,0 +1,11 @@
+.not-found{
+    /* margin-bottom: 10px;
+    color: pink; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.not-found a{
+    text-decoration: underline;
+}

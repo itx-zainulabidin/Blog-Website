@@ -1,0 +1,26 @@
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+    background: #ddd;
+    outline: none;
+    border: 2px solid transparent;
+    font-size: 1rem;
+    transition: all 0.3s;
+    border-radius: 2px;
+    margin-top:20px;
+    font-size: 1.2rem;
+}
+p{
+    text-align: justify;
+}
+p.Author{
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+button:hover {
+    background: transparent;
+    border-color: #ddd;
+    color: #ddd;
+}
